@@ -2,7 +2,6 @@
 
 This repository contains the code and notebooks for a COVID-19 data analysis challenge completed as part of the Data Science course by Chaicode. It includes:
 
-- **Datasets**: Global time-series CSVs for confirmed cases, deaths, and recoveries.
 - **Data Cleaning**: Scripts to detect and impute missing values, reshape from wide to long format, and standardize date/column types.
 - **Analysis Notebooks**:  
   - Peak daily new cases by country  
