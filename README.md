@@ -1,2 +1,13 @@
-# Covid-19-Case-Study---ChaiCode-Data-Science-Course
-COVID-19 Data Analysis Challenge Data Science course project by ChaiCode: cleaning, transforming, and analyzing global COVID-19 confirmed, deaths, and recovered datasets.
+# COVID-19 Data Analysis Challenge
+
+This repository contains the code and notebooks for a COVID-19 data analysis challenge completed as part of the Data Science course by Chaicode. It includes:
+
+- **Datasets**: Global time-series CSVs for confirmed cases, deaths, and recoveries.
+- **Data Cleaning**: Scripts to detect and impute missing values, reshape from wide to long format, and standardize date/column types.
+- **Analysis Notebooks**:  
+  - Peak daily new cases by country  
+  - Recovery and death rate comparisons (e.g., Canada vs. Australia, provincial analyses for Canada)  
+  - Monthly summaries for selected countries (US, Italy, Brazil)  
+  - Merged “confirmed/deaths/recovered” dataset for combined visualizations
+
+Feel free to explore the notebooks and reproduce the figures and summary tables.  
